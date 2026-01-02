@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FinanceUI.Blazor",
   "resources": {
-    "hash": "sha256-8boW2e+0KUIky8zNtdIGt5TgtKDMD8vMzJ4VR1gkrfY=",
+    "hash": "sha256-YCfztfJtMgzUbyQ4KHRMM9G8OnZd4EA1vd60tFCo3Go=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -53,7 +53,7 @@
       "System.Diagnostics.DiagnosticSource.wasm": "sha256-ZAclUbEp8JgPM5XbVHFhRjiiuwsQnI1x/pEbET0v/9A=",
       "System.Linq.Expressions.wasm": "sha256-4IOc4sZeFB7lEUYG58gPf/NBu4YGVFAWXXa7kEAgRhg=",
       "System.Linq.Queryable.wasm": "sha256-wcCbRCvYi32lGjRratFp9u99gfVIJpNsj1PJgRmDkB8=",
-      "System.Linq.wasm": "sha256-VjhF2INesL74co8iV2Zxvgy2HXxXSFFhL71n9QsG1es=",
+      "System.Linq.wasm": "sha256-NClZfQfnczqjh4Cy0Ahrg1a9bVMBiWdgcGizw4RSldw=",
       "System.Memory.wasm": "sha256-dQjggVLU/CEC+BdB2V/ffL3xbdW6qhHpfQSYdzl8m/8=",
       "System.Net.Http.Json.wasm": "sha256-DBNGsKrT4Tc1+IC/ZR9rF22UudSN032kQh1U4Kqtd3g=",
       "System.Net.Http.wasm": "sha256-r88nH0eB6uHgiQ0B//782hpQSYvMlgTWDRqLIuc3Xns=",
@@ -71,7 +71,7 @@
       "System.Web.HttpUtility.wasm": "sha256-d/uQ1xy7bhv6hLDznliPtCRHP9BfpZTBFO7CYlW1hjo=",
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "System.Private.CoreLib.wasm": "sha256-lM47F5x1WD6bCbz09kl2wrFgycdRmeICNVbb8C14buU=",
-      "FinanceUI.Blazor.wasm": "sha256-A8aHkliTJ7fuXqZry8usm/BbZPZnCMAFmTKzw3dGGhU="
+      "FinanceUI.Blazor.wasm": "sha256-SpM4oXq4a4/b+Ek8055RI+it/EPNMSWBsBmZrvFxyU8="
     }
   },
   "cacheBootResources": true,
