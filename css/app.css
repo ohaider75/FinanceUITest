@@ -259,6 +259,166 @@
     .parameter-overview {
         grid-template-columns: 1fr;
     }
+
+    /* Reduce overall padding on mobile */
+    .mud-main-content {
+        padding: 8px !important;
+    }
+
+    /* Smaller page titles */
+    .mud-typography-h4 {
+        font-size: 1.25rem !important;
+    }
+
+    .mud-typography-h5 {
+        font-size: 1.1rem !important;
+    }
+
+    .mud-typography-h6 {
+        font-size: 0.95rem !important;
+    }
+
+    /* Reduce card padding */
+    .mud-paper.pa-4 {
+        padding: 12px !important;
+    }
+
+    .mud-paper.pa-3 {
+        padding: 8px !important;
+    }
+
+    /* Smaller avatars on mobile */
+    .mud-avatar-large {
+        width: 36px !important;
+        height: 36px !important;
+    }
+
+    .mud-avatar-large .mud-icon-root {
+        font-size: 1.2rem !important;
+    }
+
+    /* Dashboard cards */
+    .dashboard-card {
+        padding: 10px !important;
+    }
+
+    .dashboard-card .mud-avatar {
+        width: 32px !important;
+        height: 32px !important;
+        margin-right: 8px !important;
+    }
+
+    /* Smaller text in cards */
+    .mud-typography-caption {
+        font-size: 0.65rem !important;
+    }
+
+    /* Reduce tab size */
+    .mud-tabs .mud-tab {
+        min-width: auto !important;
+        padding: 6px 10px !important;
+        font-size: 0.75rem !important;
+    }
+
+    .mud-tab .mud-icon-root {
+        font-size: 1rem !important;
+        margin-right: 4px !important;
+    }
+
+    /* Reduce grid spacing */
+    .mud-grid.mb-4 {
+        margin-bottom: 8px !important;
+    }
+
+    .mud-grid-item {
+        padding: 4px !important;
+    }
+
+    /* Reduce margins */
+    .mb-4 {
+        margin-bottom: 12px !important;
+    }
+
+    .mb-3 {
+        margin-bottom: 8px !important;
+    }
+
+    .mr-3 {
+        margin-right: 8px !important;
+    }
+
+    .mr-2 {
+        margin-right: 4px !important;
+    }
+
+    /* Compact data grid */
+    .mud-table-cell {
+        padding: 4px 6px !important;
+        font-size: 0.75rem !important;
+    }
+
+    .mud-table-head .mud-table-cell {
+        padding: 6px !important;
+        font-size: 0.7rem !important;
+    }
+
+    /* Detail table in SimulationGrid */
+    .detail-table th,
+    .detail-table td {
+        padding: 3px 4px !important;
+        font-size: 0.65rem !important;
+    }
+
+    /* Smaller buttons */
+    .mud-button-root {
+        font-size: 0.75rem !important;
+        padding: 4px 10px !important;
+    }
+
+    /* Alert messages */
+    .mud-alert {
+        padding: 8px 12px !important;
+        font-size: 0.8rem !important;
+    }
+
+    /* Expansion panels */
+    .mud-expand-panel-header {
+        padding: 8px 12px !important;
+    }
+
+    .mud-expand-panel-content {
+        padding: 8px 12px !important;
+    }
+}
+
+/* Extra small devices */
+@media (max-width: 400px) {
+    .mud-typography-h4 {
+        font-size: 1.1rem !important;
+    }
+
+    .mud-typography-h6 {
+        font-size: 0.85rem !important;
+    }
+
+    .mud-tabs .mud-tab {
+        padding: 4px 6px !important;
+        font-size: 0.65rem !important;
+    }
+
+    .mud-tab .mud-tab-label {
+        display: none;
+    }
+
+    .mud-avatar-large {
+        width: 28px !important;
+        height: 28px !important;
+    }
+
+    .dashboard-card .mud-avatar {
+        width: 28px !important;
+        height: 28px !important;
+    }
 }
 
 /* ========================================
