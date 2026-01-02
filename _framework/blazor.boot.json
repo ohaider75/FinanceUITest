@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FinanceUI.Blazor",
   "resources": {
-    "hash": "sha256-YCfztfJtMgzUbyQ4KHRMM9G8OnZd4EA1vd60tFCo3Go=",
+    "hash": "sha256-Eh+m6zdrtvh6LPaOYzqTqf9MLmAtkHqszarzd1HvT5g=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -71,7 +71,7 @@
       "System.Web.HttpUtility.wasm": "sha256-d/uQ1xy7bhv6hLDznliPtCRHP9BfpZTBFO7CYlW1hjo=",
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "System.Private.CoreLib.wasm": "sha256-lM47F5x1WD6bCbz09kl2wrFgycdRmeICNVbb8C14buU=",
-      "FinanceUI.Blazor.wasm": "sha256-SpM4oXq4a4/b+Ek8055RI+it/EPNMSWBsBmZrvFxyU8="
+      "FinanceUI.Blazor.wasm": "sha256-FMYTkPI0xsCJYVOUVJ81oabLnoksz043Sr+rRsDm/wU="
     }
   },
   "cacheBootResources": true,
