@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FinanceUI.Blazor",
   "resources": {
-    "hash": "sha256-Eh+m6zdrtvh6LPaOYzqTqf9MLmAtkHqszarzd1HvT5g=",
+    "hash": "sha256-HKIgZ8pTT7kKzFh9sFIEkqWn/OPxvxk6GFFsfozlH+4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -40,7 +40,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-xyqqv0SMCahnrOs+p5QYDHoh/BAYlbNtyjTTpqmRW/g=",
       "Microsoft.JSInterop.wasm": "sha256-JD3bXUgG3t7YicCkOBC7k/YET6kzHiaQrWxomip0XfE=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Px6z5DU/gBGylV4ob9sdcAVH4KKxpByP7WNTn+lZUro=",
-      "MudBlazor.wasm": "sha256-sT4kb/06QvHk1p48YbOrtNjCqg/T/zcKG/vV/5Ov9s0=",
+      "MudBlazor.wasm": "sha256-0FeVIrrH4JRrrkR74eOW3s5C2PJztraZzgtB9X7WdE0=",
       "System.Collections.Concurrent.wasm": "sha256-BhZoq7e5gLiFu0XGixGDVhjDKrJ0D1GFhoxVEfC3Sos=",
       "System.Collections.Immutable.wasm": "sha256-qtb/CgdziY9zzRMoRvObu5QOXe//5Uu3Zpz1KAfUkzg=",
       "System.Collections.Specialized.wasm": "sha256-Cbo7BDu8DbMP6zi/hLrSkRlAUj9/1/tl1XfhJQTeoIY=",
@@ -71,7 +71,7 @@
       "System.Web.HttpUtility.wasm": "sha256-d/uQ1xy7bhv6hLDznliPtCRHP9BfpZTBFO7CYlW1hjo=",
       "System.wasm": "sha256-I4hhyMuUoHdrzDopL9tlnkL/Skg+0OO+gmkOXNT3dcg=",
       "System.Private.CoreLib.wasm": "sha256-lM47F5x1WD6bCbz09kl2wrFgycdRmeICNVbb8C14buU=",
-      "FinanceUI.Blazor.wasm": "sha256-FMYTkPI0xsCJYVOUVJ81oabLnoksz043Sr+rRsDm/wU="
+      "FinanceUI.Blazor.wasm": "sha256-RPKTCezR1xeGyRg+KhxSmm5RJzS759QNpvNKdBbtpyM="
     }
   },
   "cacheBootResources": true,
